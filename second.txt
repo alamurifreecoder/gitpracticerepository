@@ -1,1 +1,1 @@
-This is the second file in GIT practice.
+This  second file is now updated in GIT practice.
